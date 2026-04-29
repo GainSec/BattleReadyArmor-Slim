@@ -5,6 +5,8 @@
 
 `VER 21.0.0-slim` · `OS macOS arm64 · Linux x86_64` · `TIER BRA SLIM`
 
+VIEW THE SELF-CONTAINED HTML OVERVIEW: [HERE](https://gainsec.github.io/BattleReadyArmor-Slim/)
+
 ---
 
 ## What it does
