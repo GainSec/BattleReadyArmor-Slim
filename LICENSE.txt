@@ -1,0 +1,93 @@
+BATTLE READY ARMOR — SLIM LICENSE
+=================================
+
+Copyright (c) 2026 GainSec LLC. All rights reserved.
+
+This license governs the binaries, screenshots, README, and HTML release
+documentation contained in this repository (the "Software"). The Software
+is the BRA Slim free tier of Battle Ready Armor and is provided as a
+compiled distribution. Source code is NOT included and is NOT licensed
+under this agreement.
+
+
+1. GRANT OF USE
+---------------
+
+Subject to your compliance with this license, GainSec LLC grants you a
+worldwide, royalty-free, non-exclusive, non-transferable, revocable license
+to download, install, and run the Software for your own personal,
+non-commercial use, including authorized security assessments you are
+permitted to perform on systems you personally own or control. Commercial
+use of any kind requires a premium license — see Section 3.
+
+
+2. RESTRICTIONS
+---------------
+
+You may NOT, in whole or in part:
+
+  (a) redistribute, sublicense, sell, lease, rent, or host the Software for
+      any third party;
+  (b) reverse engineer, decompile, disassemble, extract, or otherwise
+      attempt to derive the source code, internal logic, or non-public
+      interfaces of the Software, except to the extent applicable law
+      expressly forbids this restriction;
+  (c) modify, adapt, translate, or create derivative works of the Software;
+  (d) remove, alter, or obscure any copyright, trademark, license, or other
+      proprietary notice in or on the Software;
+  (e) use the Software to attack, scan, probe, or test any system without
+      written authorization from that system's owner; or
+  (f) use the Software in any manner that violates applicable law.
+
+
+3. PREMIUM TIER
+---------------
+
+The premium tier of Battle Ready Armor — including additional agent
+backends, the full knowledge surface (skills, tools, methodologies,
+workflows), the operator control plane, and the full governance-token
+catalog — is licensed separately under a commercial agreement. To inquire,
+email bra@gainsecmail.com.
+
+
+4. NO WARRANTY
+--------------
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,
+AND ACCURACY. YOU ASSUME ALL RISK ARISING FROM YOUR USE OF THE SOFTWARE.
+
+
+5. LIMITATION OF LIABILITY
+--------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
+GAINSEC LLC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL,
+OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO YOUR USE OF OR
+INABILITY TO USE THE SOFTWARE, EVEN IF GAINSEC LLC HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+
+6. TERMINATION
+--------------
+
+This license terminates automatically and without notice if you breach any
+of its terms. GainSec LLC may also revoke or modify this license at any
+time, for any reason, in its sole discretion. Upon termination, you must
+stop using the Software and remove all copies in your possession. Sections
+2, 4, 5, 6, and 7 survive termination.
+
+
+7. GENERAL
+----------
+
+This license is governed by the laws of the State of Delaware, USA,
+without regard to conflict-of-laws principles. If any provision is held
+unenforceable, the remaining provisions remain in full force and effect.
+This license constitutes the entire agreement between you and GainSec LLC
+regarding the Software.
+
+For premium licensing, partnership, or any questions:
+  bra@gainsecmail.com
