@@ -408,4 +408,4 @@ source code is not included and is not licensed.
 
 ---
 
-© GainSec LLC 2026 — `Licensed To: BRA Slim · Tier: BRA Slim · License #: SLIM`
+© GainSec LLC 2026 — Jon 'GainSec' Gaines
