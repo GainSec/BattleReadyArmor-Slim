@@ -7,6 +7,8 @@
 
 VIEW THE SELF-CONTAINED HTML OVERVIEW: [HERE](https://gainsec.github.io/BattleReadyArmor-Slim/)
 
+If Openclaw, HermesAgent, Pi Agent, or similar are more your speed, check out the Agent Ready Armor (ARA) teaser [HERE](https://gainsec.github.io/AgentReadyArmor-Teaser/)
+
 ---
 
 ## What it does
